@@ -80,11 +80,6 @@ Added slicers so users can instantly filter the dashboard by:
 
 ---
 
-## ✅ Final Dashboard
-📌 **Final Excel Dashboard View**
-![Final Dashboard](screenshots/05_final_dashboard.png)
-
----
 
 ## 📈 Skills Demonstrated
 - Data analysis in Excel  
@@ -95,22 +90,7 @@ Added slicers so users can instantly filter the dashboard by:
 
 ---
 
-## 📌 How to Use
-1. Download the Excel file from the `/excel` folder  
-2. Open it in Excel  
-3. Use slicers to filter by category, gender, or month  
-4. Review pivot insights and charts
-
----
-
-## 🔗 Files Included
-- `/data/retail_sales_dataset.csv`
-- `/excel/retail_sales_dashboard.xlsx`
-- `/screenshots/` (project screenshots)
-
----
 
 ## 👤 Author
 **Manveer Grewal**  
 📫 Email: manveer.g65@gmail.com  
-🔗 LinkedIn: *(add your link here)*
