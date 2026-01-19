@@ -48,24 +48,18 @@ The goal was to build an interactive Excel dashboard that helps users quickly id
 
 ---
 
-### 2️⃣ PivotTable Creation (Revenue by Month & Category)
+### 2️⃣ PivotTable Creation & PivotChart Visualization
 Created a PivotTable to summarize total revenue by:
 - **Rows:** Product Category  
 - **Columns:** Months (grouped from Date)  
-- **Values:** Sum of Total Amount  
+- **Values:** Sum of Total Amount
+- **Converted the PivotTable into a PivotChart to compare categories and monthly revenue patterns.
 
 📌 **PivotTable**
-![Pivot Table](screenshots/02_pivot_table.png)
+![Pivot Table](Projectscreenshot2.png)
 
 ---
 
-### 3️⃣ PivotChart Visualization
-Converted the PivotTable into a PivotChart to compare categories and monthly revenue patterns.
-
-📌 **PivotChart**
-![Pivot Chart](screenshots/03_pivot_chart.png)
-
----
 
 ### 4️⃣ Dashboard + Slicers (Interactivity)
 Added slicers so users can instantly filter the dashboard by:
