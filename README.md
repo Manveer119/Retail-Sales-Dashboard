@@ -68,7 +68,7 @@ Added slicers so users can instantly filter the dashboard by:
 - Gender
 
 📌 **Dashboard with Filters**
-![Dashboard Filters]()
+![Dashboard Filters](Projectscreenshot3.png)
 
 ---
 
